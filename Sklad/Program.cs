@@ -11,9 +11,9 @@ Console.WriteLine("Hello, World!");
 
 
 User user = new User();
-user.Name = "Azizbek";
+user.Name = "Ali";
 user.Email = "azizbek@gamil.com";
 user.Password = "password";
-user.Id = 1;
-user.UserName = "azizbek7";
+user.Id = 2;
+user.UserName = "azizbek13";
 user.GetInfoUser();
