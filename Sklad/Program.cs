@@ -1,11 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Sklad;
+using Sklad.Sardorbee;
 
 Console.WriteLine("Hello, World!");
- 
 
 
 
+Client.GetClientIfo();
 
 
 
